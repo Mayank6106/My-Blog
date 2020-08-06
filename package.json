@@ -4,13 +4,13 @@
   "engines": {
     "node": "8.10.0"
   },
-  "description": "A simple blogging app",
+  "description": "It is a Blogging Site via which anyone can share their views/knowledge/thoughts in the form of blogs. An individual can see blogs, post new blogs, delete/update their blogs and even comment on the blogs.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
   },
-  "author": "Mohit Soni",
+  "author": "Mayank Goel",
   "license": "ISC",
   "dependencies": {
     "alert-node": "^2.1.4",
